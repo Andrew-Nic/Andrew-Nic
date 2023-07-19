@@ -40,7 +40,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Static Badge](https://img.shields.io/badge/JavaScript-Javascript?style=for-the-badge&logo=javascript&logoColor=white&color=%23f0db4f)
    ![Static Badge](https://img.shields.io/badge/Angular-Angular?style=for-the-badge&logo=angular&logoColor=white&color=%23dd1b16)
    ![Static Badge](https://img.shields.io/badge/ReactJs-ReactJs?style=for-the-badge&logo=react&logoColor=white&color=%2361dafb)
 
