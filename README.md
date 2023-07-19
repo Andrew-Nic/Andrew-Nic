@@ -35,8 +35,6 @@
   ![https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6](https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6
 )
    ![Static Badge](https://img.shields.io/badge/JavaScript-Javascript?style=for-the-badge&logo=javascript&logoColor=white&color=%23f0db4f)
-   
-<br>   
     
 - **Front-End Development**:
 
@@ -45,7 +43,6 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Static Badge](https://img.shields.io/badge/Angular-Angular?style=for-the-badge&logo=angular&logoColor=white&color=%23dd1b16)
    ![Static Badge](https://img.shields.io/badge/ReactJs-ReactJs?style=for-the-badge&logo=react&logoColor=white&color=%2361dafb)
-<br>
 
 - **Back-End Development**:
     
@@ -53,16 +50,11 @@
     ![https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=dotnet&color=%23512BD4)
     ![Static Badge](https://img.shields.io/badge/NestJs-NestJs?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E)
 
-   
-<br>  
 
 - **Databases**:
 
     ![Static Badge](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=white&color=%230064a5)
     ![Static Badge](https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=mysql&logoColor=white&color=%2300758F)
-
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -71,10 +63,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/Visual%20Studio-Visual%20Studio?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
     ![Static Badge](https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)
-
-
-<br>
- 
 
 
 </p>
@@ -119,11 +107,6 @@
 <img src="https://img.shields.io/badge/linkedin:  AndrewNic-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
-
-
 <li>
 <a href="mailto:andrewnicyah@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  AndrewNic-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
