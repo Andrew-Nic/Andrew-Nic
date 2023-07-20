@@ -1,6 +1,13 @@
 
 <h1 align="center"><b>Hi , I'm Andrew Nic  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/Andrew-Nic/Andrew-Nic/blob/main/Banner.png">
+<div justity-content="center">
+	<a href="https://linkedin.com/in/andrew-nic-yah" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Nic-Andrew%20Nic?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%232300ac&color=%232300ac" width="fit-content"></a>
+	
+<a href="mailto:andrewnicyah@gmail.com" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/andrewnicyah%40gmail.com-Andrew%20Nic?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335">
+</a>
+</div>
 
 
 <br>
@@ -89,27 +96,6 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/andrew-nic-yah" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AndrewNic-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-<li>
-<a href="mailto:andrewnicyah@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  AndrewNic-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
